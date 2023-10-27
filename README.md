@@ -1,1 +1,2 @@
 # lyndseyreed-dockerpractice
+From this docker practice we are starting an ubuntu docker container and running bash commands to install packages and software realted to miniconda 3 and some tools. Currently there is one dependency that is needed to resolve some of the issues installing samtools and bcftools. May be a version issue, but tbd.
